@@ -6,7 +6,7 @@
 
 <div>
   <h2>Tecnologías Aprendidas o en Práctica:</h2>
-  <img src="https://skillicons.dev/icons?i=git,linux,c++,mint" />
+  <img src="https://skillicons.dev/icons?i=git,linux,cpp,mint" />
   
 </div>
 
