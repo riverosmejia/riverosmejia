@@ -1,5 +1,14 @@
-<h2>Sobre Mí:</h2>
-<p>Estudiante de ingeniería de sistemas y programación</p>
+<div>
+  <h2>Sobre Mí:</h2>
+  <p>Estudiante de ingeniería de sistemas y programación🤓</p>
+  <p>🌱Actualmente estoy aprendiendo programación web,tanto front como back</p>
+</div>
+
+<div>
+  <h2>Tecnologías Aprendidas o en Práctica:</h2>
+  <img src="https://skillicons.dev/icons?i=git,linux,c++,mint" />
+  
+</div>
 
 
 <!--
