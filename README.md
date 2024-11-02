@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2>Sobre Mí:</h2>
+<p>Estudiante de ingeniería de sistemas y programación</p>
+
 
 <!--
 **riverosmejia/riverosmejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
