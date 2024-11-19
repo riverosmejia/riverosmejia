@@ -6,9 +6,11 @@
 
 <div>
   <h2>Tecnologías Aprendidas o en Práctica:</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,react,mint,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,mint,linux" />
   <hr/>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" />
+  <hr/>
+  <img src="https://skillicons.dev/icons?i=postgres,bash,powershell,react"/>
 </div>
 
 
