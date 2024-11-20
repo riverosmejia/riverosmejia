@@ -10,7 +10,7 @@
   <hr/>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" />
   <hr/>
-  <img src="https://skillicons.dev/icons?i=postgres,powershell,react"/>
+  <img src="https://skillicons.dev/icons?i=postgres,bash,react"/>
 </div>
 
 
