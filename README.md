@@ -1,5 +1,8 @@
+
+
 <div>
   <h2>Sobre Mí:</h2>
+  <p>👋 ¡Hola! Soy Miguel, un apasionado del desarrollo web y la tecnología.</p>
   <p>Estudiante de ingeniería de sistemas y programación🤓</p>
   <p>🌱Actualmente estoy aprendiendo programación web,tanto front como back</p>
 </div>
@@ -12,6 +15,8 @@
   <hr/>
   <img src="https://skillicons.dev/icons?i=postgres,bash,react"/>
 </div>
+
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=riverosmejia&show_icons=true&theme=radical)
 
 
 <!--
