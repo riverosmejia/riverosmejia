@@ -16,9 +16,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,bash,react"/>
 </div>
 
-<hr />
 ![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=riverosmejia&show_icons=true&theme=radical)
-<hr />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riverosmejia&layout=compact&theme=radical)
 
 <!--
