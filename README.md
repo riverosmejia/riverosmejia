@@ -1,25 +1,31 @@
-<br/>
+<a href="https://riverosmejia.github.io/portfolio/#/" style="text-decoration: none;">
 
-<div align="left">
-  <h2>Sobre Mí:</h2>
-  <p>👋 ¡Hola! Soy <b>Miguel</b>, un apasionado del desarrollo web y la tecnología.</p>
-  <p>Estudiante de ingeniería de sistemas en <b>EAFIT</b> 🤓</p>
-  <p>🌱 Actualmente estoy aprendiendo programación web, tanto <i>front</i> como <i>back</i>.</p>
-  
-  <br/>
+# Hola 👋, soy <br> Miguel Ángel Riveros
+### Backend Developer | AI Agents | Automation
 
-  <a href="https://riverosmejia.github.io/portfolio/#/">
-    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-FFC107?style=for-the-badge&logo=react&logoColor=black" alt="Portafolio" />
-  </a>
-</div>
+</a>
+
+Estudiante de Ingeniería de Sistemas en **EAFIT**. Apasionado por la creación de soluciones robustas y eficientes.
 
 ---
 
-### Tecnologías y Herramientas:
-<p align="left">
-  <a href="https://riverosmejia.github.io/portfolio/#/">
-    <img src="https://skillicons.dev/icons?i=git,github,mint,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,bash,react" />
-  </a>
-</p>
+### Lo que hago:
+<table>
+  <tr>
+    <td width="50%" border="0">
+      <p>🟦 <b>Enfoque en backend</b></p>
+      <p>⚙️ <b>Automatización de flujos</b></p>
+      <p>🐧 <b>Uso de Linux</b></p>
+    </td>
+    <td width="50%" border="0">
+      <p>🤖 <b>Creación de agentes de IA</b></p>
+      <p>🎨 <b>Diseño gráfico</b></p>
+      <p>🎬 <b>Edición de video</b></p>
+    </td>
+  </tr>
+</table>
+
+### Tecnologías:
+<a href="https://riverosmejia.github.io/portfolio/#/">
+  <img src="https://skillicons.dev/icons?i=git,github,mint,linux,cpp,js,ts,py,postgres,bash,react" />
+</a>
