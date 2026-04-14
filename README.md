@@ -1,31 +1,31 @@
-<a href="https://riverosmejia.github.io/portfolio/#/" target="_blank" rel="noopener" style="text-decoration: none; display: block;">
+<div align="center">
+  <a href="https://riverosmejia.github.io/portfolio/#/">
+    <img src="https://skillicons.dev/icons?i=git,github,mint,linux,cpp,js,ts,py,postgres,bash,react" />
+  </a>
+</div>
 
-  <div class="portafolio-section" style="cursor: pointer; padding: 20px; border-radius: 10px; transition: background-color 0.3s;">
-    <div class="hero-text">
-      <h2>Sobre Mí:</h2>
-      <p class="big-text" style="font-size: 1.25rem;">👋 ¡Hola! Soy Miguel, un apasionado del desarrollo web y la tecnología.</p>
-      <p style="color: #bbb;">Estudiante de ingeniería de sistemas y programación 🤓</p>
-      <p style="font-weight: bold;">🌱Actualmente estoy aprendiendo programación web, <span style="color: #ffc107;">tanto front como back</span></p>
-    </div>
+<br/>
 
-    <hr style="border: 0; border-top: 1px solid #444; margin: 30px 0;">
+<div align="left">
+  <h2>Sobre Mí:</h2>
+  <p>👋 ¡Hola! Soy <b>Miguel</b>, un apasionado del desarrollo web y la tecnología.</p>
+  <p>Estudiante de ingeniería de sistemas en <b>EAFIT</b> 🤓</p>
+  <p>🌱 Actualmente estoy aprendiendo programación web, tanto <i>front</i> como <i>back</i>.</p>
+  
+  <br/>
 
-    <div class="tech-stack" style="margin-top: 30px;">
-      <h2>Tecnologías Aprendidas o en Práctica:</h2>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        <img src="https://skillicons.dev/icons?i=mint" alt="Linux Mint" />
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      </div>
-    </div>
-  </div>
+  <a href="https://riverosmejia.github.io/portfolio/#/">
+    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-FFC107?style=for-the-badge&logo=react&logoColor=black" alt="Portafolio" />
+  </a>
+</div>
 
-</a>
+---
+
+### Tecnologías y Herramientas:
+<p align="left">
+  <a href="https://riverosmejia.github.io/portfolio/#/">
+    <img src="https://skillicons.dev/icons?i=git,github,mint,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,bash,react" />
+  </a>
+</p>
