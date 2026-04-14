@@ -1,9 +1,8 @@
-<a href="https://riverosmejia.github.io/portfolio/#/" style="text-decoration: none;">
-
-# Hola 👋, soy <br> Miguel Ángel Riveros
-### Backend Developer | AI Agents | Automation
-
-</a>
+<div align="left">
+  <a href="https://riverosmejia.github.io/portfolio/#/" target="_blank" style="text-decoration: none; color: inherit;">
+    <h1>Hola 👋, soy <br> <span style="color: #ffc107;">Miguel Ángel Riveros</span></h1>
+    <h3>Backend Developer | AI Agents | Automation</h3>
+  </a>
 
 Estudiante de Ingeniería de Sistemas en **EAFIT**. Apasionado por la creación de soluciones robustas y eficientes.
 
