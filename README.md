@@ -4,27 +4,34 @@
     <h3>Backend Developer | AI Agents | Automation</h3>
   </a>
 
-Estudiante de Ingeniería de Sistemas en **EAFIT**. Apasionado por la creación de soluciones robustas y eficientes.
+  <p>
+    Estudiante de Ingeniería de Sistemas en <b>EAFIT</b>. Apasionado por la creación de soluciones robustas y eficientes.
+  </p>
 
----
+  <br/>
 
-### Lo que hago:
-<table>
-  <tr>
-    <td width="50%" border="0">
-      <p>🟦 <b>Enfoque en backend</b></p>
-      <p>⚙️ <b>Automatización de flujos</b></p>
-      <p>🐧 <b>Uso de Linux</b></p>
-    </td>
-    <td width="50%" border="0">
-      <p>🤖 <b>Creación de agentes de IA</b></p>
-      <p>🎨 <b>Diseño gráfico</b></p>
-      <p>🎬 <b>Edición de video</b></p>
-    </td>
-  </tr>
-</table>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://riverosmejia.github.io/portfolio/#/" style="text-decoration: none;">
+          <p>🟦 <b>Enfoque en backend</b></p>
+          <p>⚙️ <b>Automatización de flujos</b></p>
+          <p>🐧 <b>Uso de Linux</b></p>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://riverosmejia.github.io/portfolio/#/" style="text-decoration: none;">
+          <p>🤖 <b>Creación de agentes de IA</b></p>
+          <p>🎨 <b>Diseño gráfico</b></p>
+          <p>🎬 <b>Edición de video</b></p>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-### Tecnologías:
-<a href="https://riverosmejia.github.io/portfolio/#/">
-  <img src="https://skillicons.dev/icons?i=git,github,mint,linux,cpp,js,ts,py,postgres,bash,react" />
-</a>
+  <br/>
+
+  <a href="https://riverosmejia.github.io/portfolio/#/">
+    <img src="https://skillicons.dev/icons?i=git,github,mint,linux,cpp,js,ts,py,postgres,bash,react" />
+  </a>
+</div>
