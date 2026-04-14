@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://riverosmejia.github.io/portfolio/#/">
-    <img src="https://skillicons.dev/icons?i=git,github,mint,linux,cpp,js,ts,py,postgres,bash,react" />
-  </a>
-</div>
-
 <br/>
 
 <div align="left">
