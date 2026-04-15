@@ -14,7 +14,7 @@ Estudiante de Ingeniería de Sistemas en **EAFIT**. Apasionado por la creación 
     </td>
     <td width="50%" border="0">
       <p>🤖 <b>Creación de agentes de IA</b></p>
-      <p>🎨 <b>Diseño gráfico</b></p>
+      <p>🎸 <b>Guitarrista</b></p>
       <p>🎬 <b>Edición de video</b></p>
     </td>
   </tr>
